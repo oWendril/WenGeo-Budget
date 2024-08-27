@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RwqnxuQvsuQc5fyjt9KsJFTSUCfKbUsGztZzpfcttIQsQuv6u+zAo/2ImI5qhEZ0r0iGXX2mJkmAbm/DyVLYsg==",
+  "dgSpecHash": "o6KrQWoyqMvDt49m3lfS5P2OReoIBeBic4oyRc6/xcNYrYkb2whxSoyy6eT1Hn3tfFYeuw0n36fyiWu/WLb7WA==",
   "success": true,
-  "projectFilePath": "D:\\inetpub\\wwwroot\\RazorPages\\WenGeo Budget\\WenGeo Budget.csproj",
+  "projectFilePath": "C:\\inetpub\\httpdocs\\oWendril\\WenGeo-Budget\\WenGeo Budget.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

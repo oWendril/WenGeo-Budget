@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\inetpub\\wwwroot\\RazorPages\\WenGeo Budget\\WenGeo Budget.csproj",
+      "projectUniqueName": "C:\\inetpub\\httpdocs\\oWendril\\WenGeo-Budget\\WenGeo Budget.csproj",
       "projectName": "WenGeo Budget",
-      "projectPath": "D:\\inetpub\\wwwroot\\RazorPages\\WenGeo Budget\\WenGeo Budget.csproj",
+      "projectPath": "C:\\inetpub\\httpdocs\\oWendril\\WenGeo-Budget\\WenGeo Budget.csproj",
       "packagesPath": "C:\\Users\\Dim\\.nuget\\packages\\",
-      "outputPath": "D:\\inetpub\\wwwroot\\RazorPages\\WenGeo Budget\\obj\\",
+      "outputPath": "C:\\inetpub\\httpdocs\\oWendril\\WenGeo-Budget\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
