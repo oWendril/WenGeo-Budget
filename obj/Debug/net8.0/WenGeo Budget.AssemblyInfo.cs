@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WenGeo Budget")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b116e23ac52cfd941126b23462a61b822d2be0b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d31e80ffb64950300629956fcd893c637071479")]
 [assembly: System.Reflection.AssemblyProductAttribute("WenGeo Budget")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WenGeo Budget")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
